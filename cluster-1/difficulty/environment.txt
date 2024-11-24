@@ -1,0 +1,11 @@
+0:{NO_DATA}
+1:{NO_DATA}
+2:{NO_DATA}
+3:{NO_DATA}
+4:{NO_DATA}
+5:{NO_DATA}
+6:{NO_DATA}
+7:{NO_DATA}
+8:Extreme Environmental Risk
+9:{NO_DATA}
+10:Low Environmental Risk
