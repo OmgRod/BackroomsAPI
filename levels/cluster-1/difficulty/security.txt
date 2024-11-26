@@ -1,12 +1,1 @@
-0:Secure
-1:Secure
-2:Unsecure
-3:Unsecure
-4:Secure
-5:Secure
-6:Unsecured
-7:Unsecure
-8:{NO_DATA}
-9:Unsecure
-10:{NO_DATA}
-11:Secure
+-1:{NO_DATA}

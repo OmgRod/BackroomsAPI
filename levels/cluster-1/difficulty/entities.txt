@@ -1,12 +1,1 @@
-0:Minimal Entity Count
-1:Minimal Entity Count
-2:Low Entity Count
-3:Medium Entity Count
-4:Minimal Entity Count
-5:Low Entity Count
-6:Presence of Entities Undetermined
-7:Medium Entity Count
-8:Extreme Hostile Presence
-9:Entity Infestation
-10:No Hostile Entities
-11:Minimal Entity Count
+-1:Devoid of Entities

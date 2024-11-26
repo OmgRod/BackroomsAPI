@@ -1,12 +1,1 @@
-0:Safe
-1:Safe
-2:Unsafe
-3:Unsafe
-4:Safe
-5:Unsafe
-6:Safety Undetermined
-7:Unsafe
-8:{NO_DATA}
-9:Unsafe
-10:{NO_DATA}
-11:Safe
+-1:Unsafe
