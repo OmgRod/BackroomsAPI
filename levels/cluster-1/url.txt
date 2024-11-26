@@ -1,12 +1,2 @@
-0:http://backrooms-wiki.wikidot.com/level-0
-1:http://backrooms-wiki.wikidot.com/level-1
-2:http://backrooms-wiki.wikidot.com/level-2
-3:http://backrooms-wiki.wikidot.com/level-3
-4:http://backrooms-wiki.wikidot.com/level-4
-5:http://backrooms-wiki.wikidot.com/level-5
-6:http://backrooms-wiki.wikidot.com/level-6
-7:http://backrooms-wiki.wikidot.com/level-7
-8:http://backrooms-wiki.wikidot.com/level-8
-9:http://backrooms-wiki.wikidot.com/level-9
-10:http://backrooms-wiki.wikidot.com/level-10
-11:http://backrooms-wiki.wikidot.com/level-11
+-1:https://backrooms.fandom.com/wiki/Level_-1
+-2:https://backrooms.fandom.com/wiki/Level_-2

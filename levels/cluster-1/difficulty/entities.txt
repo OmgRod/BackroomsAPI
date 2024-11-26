@@ -1,1 +1,2 @@
 -1:Devoid of Entities
+-2:High Entity Count
