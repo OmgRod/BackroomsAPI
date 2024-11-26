@@ -9,3 +9,4 @@
 8:Very Difficult to Exit
 9:{NO_DATA}
 10:Somewhat Difficult to Exit
+11:{NO_DATA}

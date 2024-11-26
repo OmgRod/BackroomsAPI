@@ -9,3 +9,4 @@
 8:Extreme Hostile Presence
 9:Entity Infestation
 10:No Hostile Entities
+11:Minimal Entity Count
